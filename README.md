@@ -27,9 +27,6 @@
     <img alt="Language" src="https://img.shields.io/github/languages/count/MRVIVEK-CODER/XDF.svg"/>
   </a>
   <a href="https://github.com/MRVIVEK-CODER/XDF">
-    <img alt="Search" src="https://img.shields.io/github/search/MRVIVEK-CODER/XDF.svg"/>
-  </a>
-  <a href="https://github.com/MRVIVEK-CODER/XDF">
     <img alt="Starts" src="https://img.shields.io/github/stars/MRVIVEK-CODER/XDF.svg"/>
   </a>
 <a href="https://github.com/MRVIVEK-CODER/XDF">
